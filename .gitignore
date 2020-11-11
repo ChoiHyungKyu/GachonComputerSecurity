@@ -231,4 +231,7 @@ dmypy.json
 # profiling data
 .prof
 
+# Directory
+data/
+
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm+all
